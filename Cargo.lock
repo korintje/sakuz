@@ -254,6 +254,7 @@ dependencies = [
 name = "sakuz"
 version = "0.1.0"
 dependencies = [
+ "png",
  "resvg",
  "roxmltree",
  "tiny-skia",
